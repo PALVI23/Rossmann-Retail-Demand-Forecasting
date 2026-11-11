@@ -1,0 +1,6 @@
+data/
+artifacts/*
+!artifacts/model/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
